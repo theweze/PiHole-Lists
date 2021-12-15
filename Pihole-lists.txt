@@ -41,7 +41,6 @@ https://urlhaus.abuse.ch/downloads/hostfile/
 https://v.firebog.net/hosts/Prigent-Malware.txt
 https://v.firebog.net/hosts/Shalla-mal.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-https://v.firebog.net/hosts/Prigent-Adult.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
@@ -50,6 +49,5 @@ https://raw.githubusercontent.com/llacb47/mischosts/master/apple-telemetry
 https://v.firebog.net/hosts/BillStearns.txt
 https://hostsfile.org/Downloads/hosts.txt
 https://v.firebog.net/hosts/Kowabit.txt
-https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
 https://smokingwheels.github.io/Pi-hole/allhosts
