@@ -1,11 +1,11 @@
 https://adaway.org/hosts.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://mirror1.malwaredomains.com/files/justdomains
+https://v.firebog.net/hosts/AdguardDNS.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt
 https://github.com/blocklistproject/Lists/blob/master/ransomware.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt
-https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://raw.githubusercontent.com/kevinle-1/Windows-telemetry-blocklist/master/windowsblock.txt
+https://v.firebog.net/hosts/Prigent-Ads.txt
