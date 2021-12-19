@@ -9,3 +9,7 @@ https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt
 https://raw.githubusercontent.com/kevinle-1/Windows-telemetry-blocklist/master/windowsblock.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/light.txt
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/affiliatetracking.txt
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/nvidia-telemetry
+https://raw.githubusercontent.com/llacb47/mischosts/master/apple-telemetry
