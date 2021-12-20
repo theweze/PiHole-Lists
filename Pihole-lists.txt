@@ -4,7 +4,6 @@ https://v.firebog.net/hosts/AdguardDNS.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt
-https://github.com/blocklistproject/Lists/blob/master/ransomware.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt
 https://raw.githubusercontent.com/kevinle-1/Windows-telemetry-blocklist/master/windowsblock.txt
