@@ -12,3 +12,4 @@ https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/light.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/affiliatetracking.txt
 https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/nvidia-telemetry
 https://raw.githubusercontent.com/llacb47/mischosts/master/apple-telemetry
+https://lists.blocklist.de/lists/all.txt
