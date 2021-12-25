@@ -13,3 +13,5 @@ https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/affiliatet
 https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/nvidia-telemetry
 https://raw.githubusercontent.com/llacb47/mischosts/master/apple-telemetry
 https://lists.blocklist.de/lists/all.txt
+https://urlhaus.abuse.ch/downloads/hostfile/
+https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
