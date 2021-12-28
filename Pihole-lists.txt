@@ -1,6 +1,6 @@
 https://adaway.org/hosts.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://v.firebog.net/hosts/AdguardDNS.txt
+https://raw.githubusercontent.com/justdomains/blocklists/master/lists/adguarddns-justdomains.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt
@@ -15,3 +15,10 @@ https://raw.githubusercontent.com/llacb47/mischosts/master/apple-telemetry
 https://lists.blocklist.de/lists/all.txt
 https://urlhaus.abuse.ch/downloads/hostfile/
 https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
+https://raw.githubusercontent.com/pengelana/blocklist/master/domain.txt
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt
