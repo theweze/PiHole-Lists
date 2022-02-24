@@ -6,6 +6,7 @@ https://git.bubblev.org/bubblev/bubble-filter-lists/raw/branch/master/ads_and_tr
 https://git.herrbischoff.com/trackers/plain/trackers.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
@@ -24,6 +25,7 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracki
 https://raw.githubusercontent.com/Pwnic0rn/Adlist-iOS-pihole/main/ios_adlist.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
@@ -80,4 +82,7 @@ https://v.firebog.net/hosts/static/HPHosts/Hostsexp.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://winhelp2002.mvps.org/hosts.txt
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+https://www.technoy.de/lists/Session-Replay.txt
+https://www.technoy.de/lists/blocklist.txt
+https://www.technoy.de/lists/malware2.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
