@@ -32,8 +32,6 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malwar
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/affiliatetracking.txt
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/light.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/malware-domain-list.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt
